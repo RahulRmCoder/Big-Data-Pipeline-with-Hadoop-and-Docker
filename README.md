@@ -52,8 +52,8 @@ hadoop-hive-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd hadoop-hive-project
+git clone https://github.com/RahulRmCoder/Big-Data-Pipeline-with-Hadoop-and-Docker.git
+cd Big-Data-Pipeline-with-Hadoop-and-Docker
 ```
 
 ### 2. Set Up Python Environment
